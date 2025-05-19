@@ -4,7 +4,7 @@ Description: |
   web-hosting using cloudfront distribution.
 Parameters:
   KittensDomainName:
-    Description: Full Domain Name like zelihabagci.com
+    Description: Full Domain Name like sallylee.com
     Type: String
     AllowedPattern: (?!-)[a-zA-Z0-9-.]{1,63}(?!-)
 Resources:
